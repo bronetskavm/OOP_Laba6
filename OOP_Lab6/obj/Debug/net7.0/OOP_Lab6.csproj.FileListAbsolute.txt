@@ -1,0 +1,14 @@
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.AssemblyInfoInputs.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.AssemblyInfo.cs
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\bin\Debug\net7.0\OOP_Lab6.exe
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\bin\Debug\net7.0\OOP_Lab6.deps.json
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\bin\Debug\net7.0\OOP_Lab6.runtimeconfig.json
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\bin\Debug\net7.0\OOP_Lab6.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\bin\Debug\net7.0\OOP_Lab6.pdb
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\refint\OOP_Lab6.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.pdb
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\OOP_Lab6.genruntimeconfig.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab6\OOP_Lab6\obj\Debug\net7.0\ref\OOP_Lab6.dll
